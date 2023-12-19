@@ -906,8 +906,7 @@ input.checked {
 
 .product_price h4 a {
 	color: #959596;
-    font-size: 0.8em;
-    font-family: 'Inconsolata', monospace;
+    font-size: 0.6em;
 }
 
 /*-- //customer --*/
@@ -1047,7 +1046,7 @@ ul.footer_list_icons.single_in li a:hover {
 
 .single-right-left h3 {
     font-size: 23px;
-    color: #ff4e00;
+    color: black;
     margin: 0;
     letter-spacing: 1px;
 }
